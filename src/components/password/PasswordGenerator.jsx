@@ -67,6 +67,13 @@ function PasswordGenerator() {
 
         </div>
 
+        <div className=' flex justify-center text-centerh-10  '>
+          <button className='text-white cursor-pointer font-medium bg-blue-600  w-full rounded-md py-2 mt-4 mb-4 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500' onClick={generatePassword}>Regenerate</button>
+          
+
+        </div>
+        
+
 
       </div>
     </div>
