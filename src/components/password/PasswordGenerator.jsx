@@ -33,8 +33,8 @@ function PasswordGenerator() {
 
   return (
 
-    <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-      <div className="flex flex-col w-full bg-slate-900 rounded-xl px-4 py-4">
+    <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 ">
+      <div className="flex flex-col w-full bg-slate-900 rounded-xl px-2 py-2 ml-2 mr-2">
         <h1 className="text-3xl text-white text-center mb-4 ">Password Generator</h1>
 
         <div className="flex overflow-hidden rounded-lg shadow mb-4">
