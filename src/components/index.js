@@ -1,3 +1,3 @@
-import PasswordGenerator from "./passwordGenerator/passwordGenerator";
+import PasswordGenerator from "./password/passwordGenerator";
 
 export {PasswordGenerator};
